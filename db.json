@@ -51,8 +51,9 @@
       "author": "Sonia Sotomayor"
     },
     {
-      "quoteId": 2,
-      "id": 11
+      "quote": "This one's def for realziez",
+      "author": "Sprite Cranberry",
+      "id": 16
     }
   ],
   "likes": [
@@ -60,6 +61,98 @@
       "id": 1,
       "quoteId": 1,
       "createdAt": 1558524356
+    },
+    {
+      "quoteId": 16,
+      "id": 2
+    },
+    {
+      "quoteId": 16,
+      "id": 3
+    },
+    {
+      "quoteId": 16,
+      "id": 4
+    },
+    {
+      "quoteId": 16,
+      "id": 5
+    },
+    {
+      "quoteId": 16,
+      "id": 6
+    },
+    {
+      "quoteId": 16,
+      "id": 7
+    },
+    {
+      "quoteId": 10,
+      "id": 8
+    },
+    {
+      "quoteId": 10,
+      "id": 9
+    },
+    {
+      "quoteId": 16,
+      "id": 10
+    },
+    {
+      "quoteId": 16,
+      "id": 11
+    },
+    {
+      "quoteId": 16,
+      "id": 12
+    },
+    {
+      "quoteId": 16,
+      "id": 13
+    },
+    {
+      "quoteId": 16,
+      "id": 14
+    },
+    {
+      "quoteId": 16,
+      "id": 15
+    },
+    {
+      "quoteId": 16,
+      "id": 16
+    },
+    {
+      "quoteId": 9,
+      "id": 17
+    },
+    {
+      "quoteId": 9,
+      "id": 18
+    },
+    {
+      "quoteId": 9,
+      "id": 19
+    },
+    {
+      "quoteId": 9,
+      "id": 20
+    },
+    {
+      "quoteId": 9,
+      "id": 21
+    },
+    {
+      "quoteId": 9,
+      "id": 22
+    },
+    {
+      "quoteId": 9,
+      "id": 23
+    },
+    {
+      "quoteId": 9,
+      "id": 24
     }
   ]
 }
